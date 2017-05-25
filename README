@@ -1,0 +1,27 @@
+##########
+extension part
+##########
+(1) Make the sun move and change colour according to the time of day (2 marks)
+(2) Fix road extrusion so roads can go up and down hills (4 marks).
+(3) Add a 'night' mode with low ambient lighting. Give the player a torch which shines in the direction they are facing. (2 marks)
+
+##########
+KEY
+##########
+In first-person view:
+	UP - move camera forward
+	DOWN - move camera backward
+	LEFT - turn left
+	RIGHT - turn right
+In third-person view (camera is behind the avatar):
+	UP - move avatar forward
+	DOWN - move avatar backward
+	LEFT - turn left
+	RIGHT - turn right
+	
+Key.N could switch to night mode;
+Key.T could switch the torch.
+Key.2 could switch to sun move mode;
+Key.1 first-person mode
+Key.3 third-person mode
+Key.O other on/off
